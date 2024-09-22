@@ -15,7 +15,7 @@
 
 | 챕터 | 내용                |
 | ------- | ------------------- |
-| 1장     | 절차지향과 비교하기 |
+| 1장     | [절차지향과 비교하기](https://github.com/hongik-jabda/pragmatic-programming/blob/main/1%EC%9E%A5/%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%EA%B3%BC%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.md) |
 | 2장     | [객체의 종류](https://github.com/hongik-jabda/pragmatic-programming/blob/main/2%EC%9E%A5/%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EC%A2%85%EB%A5%98.md)         |
 | 3장     | [행동](https://github.com/hongik-jabda/pragmatic-programming/blob/main/3%EC%9E%A5/%ED%96%89%EB%8F%99_%EC%9D%B4%EC%B0%BD%EA%B7%BC.md)                |
 | 4장     | [SOLID](https://github.com/hongik-jabda/pragmatic-programming/blob/main/4%EC%9E%A5/SOLID.md)               |
