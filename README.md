@@ -26,3 +26,6 @@
 | 09장     | [모듈](https://github.com/hongik-jabda/pragmatic-programming/blob/main/09%EC%9E%A5/9%EC%9E%A5.md)               |
 | 10장     | [도메인](https://github.com/hongik-jabda/pragmatic-programming/blob/main/10%EC%9E%A5/%EB%8F%84%EB%A9%94%EC%9D%B8.md)               |
 | 11장     | [알아두면 유용한 스프링 활용법](https://github.com/hongik-jabda/pragmatic-programming/blob/main/11%EC%9E%A5/%ED%99%9C%EC%9A%A9%EB%B2%95.md)               |
+| 12장     | [자동 테스트](https://github.com/hongik-jabda/pragmatic-programming/blob/main/12%EC%9E%A5/%EC%9E%90%EB%8F%99%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)               |
+| 13장     | [테스트 피라미드](https://github.com/hongik-jabda/pragmatic-programming/blob/main/13%EC%9E%A5/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C.md)               |
+
