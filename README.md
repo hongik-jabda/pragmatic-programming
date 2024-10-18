@@ -9,7 +9,7 @@
 
 ## ⏰ 기간
 
-`2024.08.15` ~
+`2024.08.15` ~ `2024.10.18`
 
 ## 📋 목차
 
@@ -29,4 +29,5 @@
 | 12장     | [자동 테스트](https://github.com/hongik-jabda/pragmatic-programming/blob/main/12%EC%9E%A5/%EC%9E%90%EB%8F%99%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)               |
 | 13장     | [테스트 피라미드](https://github.com/hongik-jabda/pragmatic-programming/blob/main/13%EC%9E%A5/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C.md)               |
 | 14장     | [테스트 대역 1](https://github.com/hongik-jabda/pragmatic-programming/blob/main/14%EC%9E%A5/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8C%80%EC%97%AD1_%EC%9D%B4%EC%9A%B0%EC%A4%80.md), [2](https://github.com/hongik-jabda/pragmatic-programming/blob/main/14%EC%9E%A5/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8C%80%EC%97%AD2_%EC%A0%95%ED%98%9C%EC%9C%A4.md)             |
+| 15장     | [테스트 가능성](https://github.com/hongik-jabda/pragmatic-programming/blob/main/15%EC%9E%A5/%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B0%80%EB%8A%A5%EC%84%B1.md)               |
 | 16장     | [테스트와 설계 1](https://github.com/hongik-jabda/pragmatic-programming/blob/main/16%EC%9E%A5/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80%EC%84%A4%EA%B3%841_%EB%82%98%EA%B2%BD%EC%A3%BC.md), [2](https://github.com/hongik-jabda/pragmatic-programming/blob/main/16%EC%9E%A5/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80%EC%84%A4%EA%B3%842_%EC%9D%B4%EC%B0%BD%EA%B7%BC.md)               |
